@@ -1,0 +1,14 @@
+<mvc:View controllerName="BARCODE.BARCODE.controller.Main" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+						<Button text="Scan" press="OnPress" icon="sap-icon://bar-code" width="100%"></Button>
+						
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>

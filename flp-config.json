@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "BARCODE.BARCODE.BARCODE",
+        "description": "BarCode",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#BARCODE-Display",
+        "navigationComponentName": "BARCODE.BARCODE",
+        "intentSemanticObject": "BARCODE",
+        "intentAction": "Display",
+        "html5ApplicationName": "barcode",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "56b13d9e-04da-4e5d-8b15-64a929ee6fac-1589189104398"
+        ],
+        "contentPackages": [
+            "caa08540-0d55-44c9-89c9-ad9a25329998-1589188754555"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "BarCode",
+        "subtitle": "Scan",
+        "searchKeywords": "BarCode,Scan",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
